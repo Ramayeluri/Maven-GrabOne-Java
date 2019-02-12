@@ -1,0 +1,4 @@
+URL = https://new.grabone.co.nz/auckland
+ChromeDriver = ./ChromeDriver/chromedriver.exe
+
+ExcelPath = ./TestData/TestData.xlsx
